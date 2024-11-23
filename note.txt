@@ -13,3 +13,21 @@ git terminal - git bash
 
 git config --global user.email 'yourownemail@gmail.com'
 git config --global user.name 'your username'
+
+
+create a repo
+git add about.hmtl
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muba-rak/murphy-s-project.git
+git push -u origin main
+
+
+for further changes
+git add .
+git commit -m 'updated my index'
+git push
