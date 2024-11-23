@@ -1,0 +1,15 @@
+VERSION CONTROL
+
+git 
+git --version
+github account
+
+REPOSITORY - folder online that matches your project
+
+email address  - 
+username -
+configuration - git to match our github account
+git terminal - git bash
+
+git config --global user.email 'yourownemail@gmail.com'
+git config --global user.name 'your username'
